@@ -1,0 +1,16 @@
+{
+	"panels":[
+		{
+			"id":"text",
+			"name":"Text"
+		},
+		{
+			"id":"header",
+			"name":"Header"
+		},
+		{
+			"id":"footer",
+			"name":"Footer"
+		}
+	]
+}
