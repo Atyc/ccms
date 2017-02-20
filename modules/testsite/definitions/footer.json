@@ -1,0 +1,11 @@
+{
+    "version": "2",
+    "item": [
+		{
+			"type":"textarea",
+			"name":"footer_text1",
+			"label":"Footer first",
+			"lines":"3"
+		}
+	]
+}

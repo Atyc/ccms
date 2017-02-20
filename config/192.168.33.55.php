@@ -12,7 +12,7 @@ $config['analytics'] = 0;
 $config['cache']['force_download'] = 1;
 $config['cache']['pack_js'] = 0;
 $config['cache']['pack_css'] = 1;
-$config['update']['allow_updates'] = 0;
+$config['update']['allow_updates'] = 1;
 
 $config['database']['hostname'] = '127.0.0.1';
 $config['database']['username'] = 'root';
@@ -21,7 +21,7 @@ $config['database']['database'] = 'scotchbox';
 $config['database']['dbdriver'] = 'mysqli';
 
 // what modules to load
-$config['modules'] = array('cms', 'cms_content', );
+$config['modules'] = array('cms', 'testsite', );
 
 // admin superuser password
 $config['admin_username'] = 'cms';

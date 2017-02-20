@@ -21,7 +21,7 @@ $config['database']['database'] = 'cms';
 $config['database']['dbdriver'] = 'mysqli';
 
 // what modules to load
-$config['modules'] = array('cms', 'cms_content', );
+$config['modules'] = array('cms', 'cms_contensssst', );
 
 // admin superuser password
 $config['admin_username'] = 'cms';

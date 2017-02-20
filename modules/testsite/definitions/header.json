@@ -1,0 +1,39 @@
+{
+    "version": "2",
+    "item": [
+		{
+			"type":"image",
+			"name":"logo",
+			"label":"Logo",
+			"category":"logo"
+		},
+		{
+			"type":"text",
+			"name":"heading",
+			"label":"Heading",
+			"default":"THE TEST SITE"
+		},
+		{
+			"type":"link",
+			"name":"link",
+			"label":"Link"
+		},
+		{
+			"type":"repeater",
+			"name":"items",
+			"label":"Menu items",
+			"fields":[
+				{
+					"type":"link",
+					"name":"link",
+					"label":"Link"
+				},
+				{
+					"type":"text",
+					"name":"text",
+					"label":"Text"
+				}
+			]
+		}
+    ]
+}

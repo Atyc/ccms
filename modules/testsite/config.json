@@ -12,5 +12,11 @@
 			"id":"footer",
 			"name":"Footer"
 		}
+	],
+	"layouts":[
+		{
+			"id":"testsite",
+			"name":"Test Site"
+		}
 	]
 }
